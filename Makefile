@@ -1,5 +1,5 @@
 PKG_NAME := pypi-restructuredtext_lint
-URL = https://files.pythonhosted.org/packages/45/69/5e43d0e8c2ca903aaa2def7f755b97a3aedc5793630abbd004f2afc3b295/restructuredtext_lint-1.3.2.tar.gz
+URL = https://files.pythonhosted.org/packages/48/9c/6d8035cafa2d2d314f34e6cd9313a299de095b26e96f1c7312878f988eec/restructuredtext_lint-1.4.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
