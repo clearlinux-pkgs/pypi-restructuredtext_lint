@@ -7,7 +7,7 @@
 #
 Name     : pypi-restructuredtext_lint
 Version  : 1.4.0
-Release  : 63
+Release  : 64
 URL      : https://files.pythonhosted.org/packages/48/9c/6d8035cafa2d2d314f34e6cd9313a299de095b26e96f1c7312878f988eec/restructuredtext_lint-1.4.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/48/9c/6d8035cafa2d2d314f34e6cd9313a299de095b26e96f1c7312878f988eec/restructuredtext_lint-1.4.0.tar.gz
 Summary  : reStructuredText linter
